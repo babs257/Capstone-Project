@@ -30,6 +30,5 @@ Samuel Babatunde :man: - [Github profile](https://github.com/babs257)
 <br>
 
 ## Screenshot
-
-![User Page _ Mixin Social App - Google Chrome 07_11_2019 07_36_25 AM](https://user-images.githubusercontent.com/33323077/68365608-74a1af80-0131-11ea-8374-c1bfa4736466.png)
+(https://github.com/babs257/Capstone-Project/blob/feature/images/screeenshot.png)
 
