@@ -81,7 +81,7 @@ body {
 .left-side {
   display: grid;
   grid-template-rows: 1fr 5fr;
-  height: 80%;
+  height: 100%;
 }
 
 .border-10 {
@@ -228,7 +228,7 @@ body {
 .head-pic {
   position: relative;
   margin-top: 15px;
-  height: 58%;
+  height: 80%;
   background: top center / cover url(../images/office-staff.jpg) no-repeat;
 }
 
@@ -249,7 +249,7 @@ body {
 
 .indicator {
   position: absolute;
-  left: 80%;
+  left: 85%;
   width: 82px;
   transform: rotate(90deg);
 }
@@ -270,7 +270,7 @@ body {
 
 .mid-buttons {
   position: absolute;
-  bottom: 5%;
+  bottom: 2%;
   left: 8%;
   width: 80%;
   height: 10%;
