@@ -101,7 +101,7 @@ a {
 /**
   * Improve readability when focused and also mouse hovered in all browsers.
 */
- 
+
 a:active,
 a:hover {
   outline: 0;
@@ -117,7 +117,7 @@ a:hover {
 abbr[title] {
   border-bottom: 1px dotted;
 }
- 
+
 /**
   * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
 */
@@ -144,7 +144,7 @@ h1 {
   font-size: 2em;
   margin: 0.67em 0;
 }
- 
+
 /**
   * Address styling not present in IE 8/9.
 */
@@ -165,7 +165,7 @@ small {
 /**
   * Prevent `sub` and `sup` affecting `line-height` in all browsers.
 */
- 
+
 sub,
 sup {
   font-size: 75%;
@@ -173,7 +173,7 @@ sup {
   position: relative;
   vertical-align: baseline;
 }
- 
+
 sup {
   top: -0.5em;
 }
@@ -192,7 +192,7 @@ sub {
 img {
   border: 0;
 }
- 
+
 /**
   * Correct overflow not hidden in IE 9/10/11.
 */
@@ -233,7 +233,7 @@ pre {
 /**
   * Address odd `em`-unit font size rendering in all browsers.
 */
- 
+
 code,
 kbd,
 pre,
@@ -286,7 +286,7 @@ button,
 select {
   text-transform: none;
 }
-  
+
 /**
   * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
   *    and `video` controls.
